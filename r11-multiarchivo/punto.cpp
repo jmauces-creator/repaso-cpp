@@ -14,5 +14,6 @@ void Punto::imprimir() const {
 
     std::cout <<"El valor de x es: " << x << "\nEl valor de y es:  " << y << "\n";
     std::cout << "La distancia entre los puntos es: " << distanciaAlOrigen();
+    std::cout << "(version de prueba)\n";
 
 }
